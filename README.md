@@ -1,2 +1,2 @@
 # COMP-2231_Assignment-2
-Completed Lab 2 of COMP 2231 
+Completed code from Lab 2 of COMP 2231 
